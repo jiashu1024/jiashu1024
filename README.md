@@ -96,7 +96,7 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=jiashu1024&count_private=true&show_icons=true&include_all_commits=false&bg_color=35,3eede7,EAD6EE&hide_border=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=jiashu1024&count_private=true&show_icons=true&include_all_commits=false&bg_color=bg_color=DEG,84FAB0,FFC3F0,FFEDD0,A1E6FF&hide_border=true" />
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiashu1024&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
