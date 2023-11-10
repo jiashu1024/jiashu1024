@@ -26,6 +26,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&random=true&width=900&lines=The+bamboo+branches%2C+pressed+low+by+the+sea's+mighty+force%2C+rise+again" alt="Typing SVG" /></a>
     <br>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&random=true&width=900&lines=As+the+wind+sweeps+the+mountain's+base%2C+obscurity+yields+to+clarity" alt="Typing SVG" /></a>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&multiline=true&random=true&width=900&height=70&lines=As+the+wind+sweeps+the+mountain's+base%2C+obscurity+yields+to+clarity;The+bamboo+branches%2C+pressed+low+by+the+sea's+mighty+force%2C+rise+again" alt="Typing SVG" /></a>
 </p>
 
 
