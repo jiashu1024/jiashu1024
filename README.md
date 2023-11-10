@@ -1,7 +1,4 @@
 <h3 align="center">Hi 👋, I'm jia_shu (张嘉书) 📚</h3>
-
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/jiashu1024">
         <img src="https://img.shields.io/github/stars/jiashu1024.svg?logo=star&label=Total%20Stars&color=success" />
