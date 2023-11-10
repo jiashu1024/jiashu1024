@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&random=true&width=435&lines=%E6%B5%B7%E5%8E%8B%E7%AB%B9%E6%9E%9D%E4%BD%8E%E5%A4%8D%E4%B8%BE%2C%E9%A3%8E%E5%90%B9%E5%B1%B1%E8%84%9A%E6%99%A6%E8%BF%98%E6%98%8E" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=AFDD22&center=true&vCenter=true&multiline=true&random=false&lines=%E6%B5%B7%E5%8E%8B%E7%AB%B9%E6%9E%9D%E4%BD%8E%E5%A4%8D%E4%B8%BE%2C%E9%A3%8E%E5%90%B9%E5%B1%B1%E8%84%9A%E6%99%A6%E8%BF%98%E6%98%8E" alt="Typing SVG" /></a>
     <br>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF7500&center=true&multiline=true&random=false&width=900&height=60&lines=The+bamboo+branches%2C+pressed+low+by+the+sea's+mighty+force%2C+rise+again;As+the+wind+sweeps+the+mountain's+base%2C+obscurity+yields+to+clarity" alt="Typing SVG" /></a>
 </p>
