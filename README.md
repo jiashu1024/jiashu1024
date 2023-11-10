@@ -9,8 +9,8 @@
     <a title="My Blog Site" target="_blank" href="https://zhangjiashu.cn/">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-zhangjiashu.cn-orange" />
     </a>
-    [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 </p>
+ [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 <p align="center">
     <a title="Email" target="_blank">
         <img src="https://img.shields.io/badge/Email-root@zhangjiashu.cn-orange" />
