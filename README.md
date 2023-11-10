@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Email-root@zhangjiashu.cn-orange" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://zhangjiashu.cn/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-zhangjiashu.cn-orange" />
+        <img src="https://img.shields.io/badge/blog-zhangjiashu.cn-pink" />
     </a>
     <a title="Telegram" target="_blank" href="https://t.me/ZhangJiashu1024">
         <img src="https://img.shields.io/badge/TG-jiashu-blue?logo=telegram&longCache=true" />
