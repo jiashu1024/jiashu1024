@@ -20,7 +20,7 @@
     
 </p>
 
-[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E6%B5%B7%E5%8E%8B%E7%AB%B9%E6%9E%9D%E4%BD%8E%E5%A4%8D%E4%B8%BE%EF%BC%8C%E9%A3%8E%E5%90%B9%E5%B1%B1%E8%84%9A%E6%99%A6%E8%BF%98%E6%98%8E" alt="Typing SVG" /></a>
 
 ### 🏆 Profile Trophy
 
