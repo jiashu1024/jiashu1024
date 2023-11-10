@@ -11,7 +11,7 @@
     </a>
 </p>
 <p align="center">
-    <a title="Email" target="_blank" href="root@zhangjiashu.cn">
+    <a title="Email" target="_blank">
         <img src="https://img.shields.io/badge/Email-root@zhangjiashu.cn-orange" />
     </a>
 </p>
