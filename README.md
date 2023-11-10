@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-zhangjiashu.cn-orange" />
     </a>
     <a title="Telegram" target="_blank" href="https://t.me/ZhangJiashu1024">
-        <img src="https://img.shields.io/badge/TG-jiashu-blue?logo=telegram&longCache=true&style=plastic" />
+        <img src="https://img.shields.io/badge/TG-jiashu-blue?logo=telegram&longCache=true" />
     </a>
     
 </p>
