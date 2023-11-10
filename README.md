@@ -1,21 +1,21 @@
 <h3 align="center">Hi 👋, I'm jia_shu (张嘉书) 📚</h3>
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/jiashu1024">
-        <img src="https://img.shields.io/github/stars/jiashu1024.svg?logo=star&label=Total%20Stars&color=success" />
+        <img src="https://img.shields.io/github/stars/jiashu1024.svg?logo=star&label=Total%20Stars&color=afdd22" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/jiashu1024">
-        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djiashu1024&color=blue&logo=github&longCache=true" />
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djiashu1024&color=ff8936&logo=github&longCache=true" />
     </a>
 </p>
 <p align="center">
     <a title="Email" target="_blank">
-        <img src="https://img.shields.io/badge/Email-root@zhangjiashu.cn-orange" />
+        <img src="https://img.shields.io/badge/Email-root@zhangjiashu.cn-44cef6" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://zhangjiashu.cn/">
-        <img src="https://img.shields.io/badge/blog-zhangjiashu.cn-pink" />
+        <img src="https://img.shields.io/badge/blog-zhangjiashu.cn-ffb3a7" />
     </a>
     <a title="Telegram" target="_blank" href="https://t.me/ZhangJiashu1024">
-        <img src="https://img.shields.io/badge/TG-jiashu-blue?logo=telegram&longCache=true" />
+        <img src="https://img.shields.io/badge/TG-jiashu-70f3ff?logo=telegram&longCache=true" />
     </a>
     
 </p>
