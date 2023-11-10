@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm jia_shu (张嘉书) 📚</h3>
-<span id="jinrishici-sentence">正在加载今日诗词....</span>
+
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 <p align="center">
